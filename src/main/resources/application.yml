@@ -1,0 +1,14 @@
+spring:
+    application:
+        name: shell
+    
+    main:
+        banner-mode: off
+
+    shell:
+        interactive:
+            enabled: true
+
+logging:
+    level:
+        root: off
